@@ -1,0 +1,27 @@
+{
+  "clienti": {
+    "cliente": [
+      {
+        "id": "1",
+        "nome": "Tom",
+        "cognome": "Cruise",
+        "e-mail": "tomCruise1@gmail.com",
+        "età":"25"
+      },
+      {
+        "id": "2",
+        "nome": "Tom",
+        "cognome": "Cruise",
+        "e-mail": "tomCruise2@gmail.com",
+        "età":"35"
+      },
+      {
+        "id": "3",
+        "nome": "Tom",
+        "cognome": "Cruise",
+        "e-mail": "tomCruise3@gmail.com",
+        "età":"30"
+      }
+    ]
+  }
+}
